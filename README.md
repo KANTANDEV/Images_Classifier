@@ -14,4 +14,5 @@ Utilisation de deux algorithmes KNN :
 ## Méthode des k plus proches voisins : 
 
 
-![K](https://user-images.githubusercontent.com/94462048/212420402-da4291a9-5dd2-4c24-93a3-4d996bee81ab.png)
+![K](https://user-images.githubusercontent.com/94462048/212420722-0bc5b0b5-cc70-4f38-9254-86a3c9fe89d0.png)
+
